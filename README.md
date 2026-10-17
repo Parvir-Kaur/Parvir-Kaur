@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Parvir-Kaur 👋
 
-<!--
-**Parvir-Kaur/Parvir-Kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student  
+💻 Aspiring Software Developer  
+🌐 Web Development | C++ | DSA | AI
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech AI & Data Science student passionate about
+building real-world projects and improving my problem-solving skills.
+
+Currently focused on Web Development, C++, DSA and AI.
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- C++
+- Data Structures & Algorithms
+- AI & Data Science
+
+## 🚀 Projects
+
+- 🌐 Web Development Projects
+- 💻 C++ & DSA Practice
+- 🤖 AI & Data Science Projects
+
+## 📚 Currently Learning
+
+JavaScript • Advanced DSA • Web development • AI/ML
+
+## 🎯 Career Goal
+
+To become a skilled software developer and gain industry
+experience through internships and real-world projects.
+
+## 🤝 Connect With Me
+
+LinkedIn | GitHub
