@@ -24,7 +24,6 @@ Currently focused on Web Development, C++, DSA and AI.
 
 - 🌐 Web Development Projects
 - 💻 C++ & DSA Practice
-- 🤖 AI & Data Science Projects
 
 ## 📚 Currently Learning
 
